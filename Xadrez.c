@@ -12,12 +12,12 @@ int main() {
      }
       
      //Movimentação do bispo
-      int i = 0;
-          while (i < 5) {  // Executa 5 vezes
-        printf("Movimento %d Bispo:\n", i + 1); // Mostra a contagem da iteração
+      int bispo = 0;
+          while (bispo < 5) {  // Executa 5 vezes
+        printf("Movimento %d Bispo:\n", bispo + 1); // Mostra a contagem da iteração
         printf("Cima\n");
         printf("Direita\n\n");
-        i++;
+        bispo++;
      }
 
      //Movimentação da rainha     
