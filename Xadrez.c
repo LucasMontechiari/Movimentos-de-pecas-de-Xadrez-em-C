@@ -28,6 +28,20 @@ int main() {
           r++;
      } while (r < 8); // Executa 8 vezes
 
+     //Movimentação do cavalo
+     int cavalo = 1; 
+
+     while (cavalo -- ){
+          for(int i = 0; i < 2; i++){  
+          }
+          printf("Movimento Cavalo:\n"); // Mostra a contagem da iteração
+          printf("Baixo \n");
+          printf("Baixo \n");
+          printf("Esquerda\n\n");
+     
+     }
+
+
      getchar();
      getchar();
 return 0;
