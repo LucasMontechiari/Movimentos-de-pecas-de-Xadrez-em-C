@@ -38,7 +38,6 @@ int main() {
           printf("Baixo \n");
           printf("Baixo \n");
           printf("Esquerda\n\n");
-     
      }
 
 
